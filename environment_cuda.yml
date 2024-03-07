@@ -30,6 +30,10 @@ dependencies:
   - pip
   - albumentations
   - rich
+  - pyparsing 
+  - cycler 
+  - python-dateutil 
+  - kiwisolver
   - pip:
     - coremltools~=6.0
     - file:.
